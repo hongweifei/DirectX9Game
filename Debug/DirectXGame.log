@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+  Renderer.cpp
+  main.cpp
+  Window.cpp
+E:\CPPSource\DirectXGame\Window\Window.cpp(111,15): warning C4102: “RendererIsTrue”: 未引用的标签
+  正在生成代码...
+  DirectXGame.vcxproj -> E:\CPPSource\DirectXGame\Debug\DirectXGame.exe
